@@ -19,7 +19,7 @@ def Rock_Paper_Scissors_game():
         player = input("Your Option: ") #This is the person selection
         print("You chose:", player)
 
-#This is the computer selection
+#This is the computer selection of selecting either Rock, Paper, or Scissors
         computer = random.randint(1,3)
         if computer == 1:
             computer = "rock"
@@ -65,7 +65,7 @@ def Rock_Paper_Scissors_game():
         print("This is how many times you tie:" + str(tie))
 
         # Play Again
-        play = input("Would you like to play again?")
+        play = input("Would you like to play again?")                #This part asks the player if they want to continue playing or stop playing.
         if play == "yes":
             print("You can continue playing")
         elif play == "no":
