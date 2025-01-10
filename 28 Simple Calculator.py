@@ -9,22 +9,25 @@ def add(num1,num2):
     result = num1 + num2 #One solution
     print("The result is: " + str(result))
 
+#Subtract num1 w/ num2 and print the result
 def sub(num1,num2):
     result = num1 - num2
     print("The result is: " +str(result))
 
+#Multiply num1 w/ num2 and print the result
 def multi(num1,num2):
     result = num1 * num2
     print("The result is: " +str(result))
 
+#Divide num1 w/ num2 and print the result
 def divi(num1,num2):
     result = num1 / num2
     print("The result is: " +str(result))
 
-def simple_calculator():
+def simple_calculator():         #This program is a combination of all the smaller functions to do the calculation
     print("Welcome to Simple Calculator")
     while True:
-        print("Select an operation: ")
+        print("Select an operation: ")            #This allows the player to chose what they want to do.
         print("""1.Addition
 2.Subtraction
 3.Multiplication
