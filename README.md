@@ -31,7 +31,7 @@ This is my 1st semester 5 python code for class
 - Player can end the game whenever they want
 - The program will ask the player if they want to play again after every round instead of forcing the player to play until they do not want to any more
   
-### Project 4: 38 Multiplication Quiz
+### Project 5: 38 Multiplication Quiz
 **Summary**:This program can test the players knowledge of basic math, by giving out a set of 5 questions to test how many the player can get correct
 **Key Features**: 
 - All the questions the player will answer will be randomly generate, so the player can not expect a certain answer to appear
