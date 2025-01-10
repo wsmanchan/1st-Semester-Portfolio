@@ -3,10 +3,10 @@
 #Fantasy Name Project
 
 #Main
-print("Welcome to your fantasy name")
+print("Welcome to your fantasy name")  #This here is to welcome the player to the game.
 print("Answer all the questions to find out your fantasy name")
 print("Please answer the questions in lowercase")
-ans = input("fairy or mermaid?")
+ans = input("fairy or mermaid?") #Below is the different type of question the player may recieved based on the following answer they choose.
 if ans == "fairy":
     ans = input("light or dark?")
     if ans == "dark":
