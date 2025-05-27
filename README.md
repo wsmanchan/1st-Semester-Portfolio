@@ -12,12 +12,14 @@ This is my 1st semester 5 python code for class
 
 ### Project 2: Fantasy Name  
 **Summary**: This program allows users to choses from two choice and with a total of three questions to get a fun make believe name.
+
 **Key Features**: 
 - After the player choses a answer choices the program continues asking a follow-up questions to guide the player to a make believe name at the end
 - There are 8 possible solutions with all different answers choices that lead to different names
 
 ### Project 3: 28 Simple Calculator 
 **Summary**: This program allows users to input two numbers and like a basic calculator can solve basic math with the two numbers provide
+
 **Key Features**: 
 - The program can allow the player to chooses from either doing addition, subtraction, multiplication, and division
 - Player can their desire two numbers they wish to do the opperation with
@@ -25,6 +27,7 @@ This is my 1st semester 5 python code for class
 
 ### Project 4: Rock Paper Scissors
 **Summary**: This program allows users to play rock paper scissors with a computer
+
 **Key Features**: 
 - The player can not tell what the computer will choose
 - Program can keep track of the wins, losses, and ties from multiple games
@@ -34,6 +37,7 @@ This is my 1st semester 5 python code for class
   
 ### Project 5: 38 Multiplication Quiz
 **Summary**:This program can test the players knowledge of basic math, by giving out a set of 5 questions to test how many the player can get correct
+
 **Key Features**: 
 - All the questions the player will answer will be randomly generate, so the player can not expect a certain answer to appear
 - At the end each set of 5 questions the program will tell the player how many the player got correct out of the total number of question the player answered
@@ -43,6 +47,7 @@ This is my 1st semester 5 python code for class
 
 ### Project 6: 44 Slot Machine
 **Summary**: This program is similiar like a casino machine, where user are playing a game.
+
 **Key Features**: 
 - The program is capable of outputting different small image
 - User are able to keep track of their credit
@@ -52,6 +57,7 @@ This is my 1st semester 5 python code for class
 
 ### Project 7: 42 Magic 8 Ball
 **Summary**: This program is to function like the toy magic 8 ball but on a computer
+
 **Key Features**: 
 - The program simulate the shaking whenever a user as the magic 8 ball any question
 - The output are pulled from a list of possible answers
