@@ -1,4 +1,4 @@
-# 1st-Semester-Portfolio
+# My-Semester-Portfolio
 This is my 1st semester 5 python code for class
 
 ### Project 1: Pokemon
