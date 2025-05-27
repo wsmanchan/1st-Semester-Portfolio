@@ -39,3 +39,20 @@ This is my 1st semester 5 python code for class
 - The player can continue playing the program until they wish to stop playing it
 - Every time the player wish to play again it will keep on tracking the correct number of answer from the last round to the current round
 - The program add by 5 question every time the player want to continue playing
+
+### Project 6: 44 Slot Machine
+**Summary**: This program is similiar like a casino machine, where user are playing a game.
+**Key Features**: 
+- The program is capable of outputting different small image
+- User are able to keep track of their credit
+- The program can run as many times as the user have enough credit
+- If the user does not have enough credit than they can not play the program
+- There is a staring amount of credit
+
+### Project 7: 42 Magic 8 Ball
+**Summary**: This program is to function like the toy magic 8 ball but on a computer
+**Key Features**: 
+- The program simulate the shaking whenever a user as the magic 8 ball any question
+- The output are pulled from a list of possible answers
+- The program it designed to wait a couple seconds instead of immeditly giving out the output
+- The user can choose when the game end
